@@ -2,15 +2,14 @@
 #### I am python and django
 ![I am python and django](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience. Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
 
-Connect with Us
-test
+Skills: python/Flask/django/RDBMS/Server/VUE JS / REACT / HTML / CSS/ JS
 
-Skills: Python/Django/VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on Mohuls Soft Limited  
-- 🌱 I’m currently learning 10 minute program 
+🔭 I’m currently working on mohuls soft ltd
+🌱 I’m currently learning javaScript
+👯 I’m looking to collaborate on github
+💬 Ask me about web development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shahalom8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shahalom8.github.io/)  
