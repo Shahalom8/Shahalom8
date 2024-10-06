@@ -2,7 +2,7 @@
 #### I am python and django
 ![I am python and django](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience. Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
+Hey I'm Shahalom and I'm giving service of Web design & development on Python Django, Flask, Django Rest Framework, Vue js and bootstrap. My code is always SEO-friendly and clean Code To ensure The eest User Experience, I'm also a server management expert."
 
 Skills: python/Flask/django/RDBMS/Server/VUE JS / REACT / HTML / CSS/ JS
 
